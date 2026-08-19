@@ -1,0 +1,10 @@
+artifact_location: file:///Users/christophersaia/IDE/PycharmProjects/Churn Model End-to-End/mlruns/663472821235144031/models/m-f87db776359f472ca53336abf478a66c/artifacts
+creation_timestamp: 1774130599334
+experiment_id: '663472821235144031'
+last_updated_timestamp: 1774130603731
+model_id: m-f87db776359f472ca53336abf478a66c
+model_type: null
+name: model
+source_run_id: 6326cc3f2fd0454e80b93650822787e1
+status: 2
+status_message: null

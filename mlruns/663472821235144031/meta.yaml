@@ -1,0 +1,6 @@
+artifact_location: file:///Users/christophersaia/IDE/PycharmProjects/Churn Model End-to-End/mlruns/663472821235144031
+creation_time: 1772056932150
+experiment_id: '663472821235144031'
+last_update_time: 1772056932150
+lifecycle_stage: active
+name: Telco Churn - XGBoost

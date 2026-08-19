@@ -1,0 +1,23 @@
+artifact_path: file:///Users/christophersaia/IDE/PycharmProjects/Churn Model End-to-End/mlruns/663472821235144031/models/m-f87db776359f472ca53336abf478a66c/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.11
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+    skops_trusted_types: null
+mlflow_version: 3.10.1
+model_id: m-f87db776359f472ca53336abf478a66c
+model_size_bytes: 1663169
+model_uuid: m-f87db776359f472ca53336abf478a66c
+prompts: null
+run_id: 6326cc3f2fd0454e80b93650822787e1
+utc_time_created: '2026-03-21 22:03:19.383174'

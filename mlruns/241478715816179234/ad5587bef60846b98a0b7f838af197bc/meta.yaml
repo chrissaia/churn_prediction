@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/christophersaia/IDE/PycharmProjects/Churn Model End-to-End/mlruns/241478715816179234/ad5587bef60846b98a0b7f838af197bc/artifacts
+end_time: 1771970160614
+entry_point_name: ''
+experiment_id: '241478715816179234'
+lifecycle_stage: active
+run_id: ad5587bef60846b98a0b7f838af197bc
+run_name: nosy-newt-422
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771970093829
+status: 3
+tags: []
+user_id: christophersaia

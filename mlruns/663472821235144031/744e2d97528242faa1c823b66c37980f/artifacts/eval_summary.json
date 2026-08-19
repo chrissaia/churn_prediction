@@ -1,0 +1,13 @@
+{
+  "metrics": {
+    "train_time": 0.7702288627624512,
+    "accuracy": 0.7381121362668559,
+    "precision": 0.5033333333333333,
+    "recall": 0.8096514745308311,
+    "f1": 0.6207605344295992,
+    "roc_auc": 0.8440796215595143
+  },
+  "threshold_used_in_train_model": 0.35,
+  "test_size_used_in_train_model": 0.2,
+  "tuning_enabled": false
+}

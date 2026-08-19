@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/christophersaia/IDE/PycharmProjects/Churn Model End-to-End/mlruns/663472821235144031/505b56a5d6024e478b2d496f0847437c/artifacts
+end_time: 1775063842700
+entry_point_name: ''
+experiment_id: '663472821235144031'
+lifecycle_stage: active
+run_id: 505b56a5d6024e478b2d496f0847437c
+run_name: glamorous-grub-635
+run_uuid: 505b56a5d6024e478b2d496f0847437c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775063775675
+status: 3
+tags: []
+user_id: christophersaia

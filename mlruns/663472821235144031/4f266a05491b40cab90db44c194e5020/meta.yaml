@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/christophersaia/IDE/PycharmProjects/Churn Model End-to-End/mlruns/663472821235144031/4f266a05491b40cab90db44c194e5020/artifacts
+end_time: 1772056932659
+entry_point_name: ''
+experiment_id: '663472821235144031'
+lifecycle_stage: active
+run_id: 4f266a05491b40cab90db44c194e5020
+run_name: nosy-snipe-117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772056932629
+status: 4
+tags: []
+user_id: christophersaia

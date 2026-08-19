@@ -8,7 +8,7 @@ sys.path.append(os.path.abspath("src"))
 
 from src.data.load_data import load_data
 from src.data.preprocess import preprocess_data
-from src.features.build_features import build_features
+from src.features.build_feature import build_features
 
 # === CONFIG ===
 DATA_PATH = "/Users/riadanas/Desktop/Telco Customer Churn MLE/data/raw/Telco-Customer-Churn.csv"  # adjust to your file path

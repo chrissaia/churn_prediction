@@ -115,3 +115,5 @@ Optimized hyperparameters are hardcoded in `scripts/run_pipeline.py:100-110`:
 - MLflow UI can be accessed with: `mlflow ui --backend-store-uri file:./mlruns`
 - The project uses file-based MLflow tracking (not a tracking server)
 - Model serving expects exact feature column order from training time
+
+Thank you.

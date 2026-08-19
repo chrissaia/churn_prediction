@@ -70,7 +70,6 @@ def build_features(df: pd.DataFrame, target_col: str) -> pd.DataFrame:
     obj_cols = [c for c in df.select_dtypes(include=["object"]).columns if c != target_col]
     numeric_cols = df.select_dtypes(include=["int64", "float64"]).columns.tolist()
 
-
     multi_cols = [c for c in obj_cols if df[c].dropna().nunique() > 2]  # remove NAN, get unique cols that have len>2
     binary_cols = [c for c in obj_cols if df[c].dropna().nunique() == 2] # same thing but len==2
 
