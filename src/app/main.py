@@ -67,12 +67,6 @@ app = FastAPI(
 
 
 
-# check root health
-@app.get("/")
-def root():
-    return {"message": "hello"}
-
-
 @app.get("/health")
 def health():
     return {
@@ -428,7 +422,7 @@ with gr.Blocks(theme=gr.themes.Monochrome()) as demo:
 
 
 # Mounting gradio onto fastapi
-# creates the /ui endpoint that serves the Gradio interface
+# creates the / endpoint that serves the Gradio interface
 app = gr.mount_gradio_app(
     app,  # FastAPI application instance
     demo,  # Gradio interface
