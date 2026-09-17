@@ -1,10 +1,10 @@
 from tests.conftest import client
 
 
-def test_root_returns_hello(client):
+def test_root_serves_gradio_frontend(client):
     response = client.get("/")
     assert response.status_code == 200
-    assert response.json() == {"message": "hello"}
+    assert "<html" in response.text.lower()
 
 
 def test_health_returns_expected_shape(client):
